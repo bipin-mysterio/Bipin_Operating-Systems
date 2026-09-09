@@ -24,3 +24,10 @@ int main(){
 	printf("this is a new test file");
 	return 0;
 }
+
+
+to delete mkdir files 
+
+th directory files can be dleted by using rm -r file name.txt
+
+if it was normal text file rm filename.txt
